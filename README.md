@@ -1,2 +1,2 @@
-# genai-utoronto
-Course Page "Deep Generative Models"
+# rl-utoronto
+Course Page "Reinforcement Learning"
