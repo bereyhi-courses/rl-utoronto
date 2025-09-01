@@ -1,0 +1,293 @@
+---
+layout: default
+---
+
+<div class="home">
+  
+  <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
+  
+  {% include announcements.html %}
+  <br />
+  
+  {{ content }}
+
+  <h2>Course Description</h2>
+  <p>{{ site.course_description }}</p>
+  
+  
+
+  <h2>Time and Place</h2>
+  <h3>Lectures</h3>
+  <p>Lectures start on <strong>{{ site.start_date }}</strong>. {{site.start_description}}</p>
+  <table style="border-collapse: collapse; width: 90%;margin-top: 10pt; margin-bottom: 10pt; border: .5px solid black;">
+    <tr class="row1" style="background-color: rgb(242, 242, 242);">
+      <td><em>Day</em></td>
+      <td><em>Time</em></td>
+      <td><em>Place</em></td>
+    </tr>
+    <tr class="row2" style="background-color: white;">
+      <td><strong>{{ site.day1 }}</strong></td>
+      <td><strong>{{ site.time1 }}</strong></td>
+      <td>{{ site.loc1 }}</td>
+    </tr>
+    <tr class="row3" style="background-color: white;">
+      <td><strong>{{ site.day2 }}</strong></td>
+      <td><strong>{{ site.time2 }}</strong></td>
+      <td>{{ site.loc2 }}</td>
+    </tr>
+  </table>
+
+
+  <h3>Tutorials</h3>
+  <p>Tutorials sessions start on <strong>{{ site.start_dateTut }}</strong>.</p>
+  <table style="border-collapse: collapse; width: 90%;margin-top: 10pt; margin-bottom: 10pt; border: .5px solid black;">
+    <tr class="row1" style="background-color: rgb(242, 242, 242);">
+      <td><em>Day</em></td>
+      <td><em>Time</em></td>
+      <td><em>Place</em></td>
+    </tr>
+    <tr class="row2" style="background-color: white;">
+      <td><strong>{{ site.dayTut }}</strong></td>
+      <td><strong>{{ site.timeTut }}</strong></td>
+      <td>{{ site.locTut }}</td>
+    </tr>
+  </table>
+
+   <h3>Course Office Hours</h3>
+  
+   <table style="border-collapse: collapse; width: 90%;margin-top: 10pt; margin-bottom: 10pt; border: .5px solid black;">
+    <tr class="row1" style="background-color: rgb(242, 242, 242);">
+      <td><em>Day</em></td>
+      <td><em>Time</em></td>
+    </tr>
+    <tr class="row2" style="background-color: white;">
+      <td><strong>{{ site.dayOffice }}</strong></td>
+      <td><strong>{{ site.timeOffice }}</strong></td>
+    </tr>
+  </table>
+  
+  {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
+  <h2>Previous Offerings</h2>
+  <ul class="previous-offerings">
+    {% for offer in site.data.previous_offering.offerings %}
+    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  
+  <br>
+  <!-- <div> -->
+    <div style="width:95%; float: left">
+      <!-- <h2>Instructors</h2> -->
+      <!-- <div class="image--cover-container">
+        <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
+        <p>{{site.data.people.instructor.name}}</p>
+      </div> -->
+      
+      <div class="profile-pic-gallary" style="width:95%; float: left">
+        <h2>Instructor</h2>
+        {% for ins in site.data.people.instructors %}
+        <div class="image--cover-container">
+          <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+          {% if ins.webpage %}
+          <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+          {% else %}
+          <p>{{ins.name}}</p>
+          {% endif %}
+        </div>
+        <p style="margin: 0;">{{ins.title}}</p>
+        <p style="margin: 0;">{{ins.affil}}</p>   
+        <p style="margin: 0;">{{ins.address}}</p>
+        {% endfor %}
+      </div>
+    </div>
+    
+    <div style="width:95%; float: left">
+      <div class="profile-pic-gallary ">
+        <h2>Teaching Assistants</h2>
+        {% for ta in site.data.people.teaching_assistants %}
+        <div class="image--cover-container" style="width:20%; float: left">
+          <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+          {% if ta.webpage %}
+          <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+          {% else %}
+          <p>{{ta.name}}</p>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  <!-- </div> -->
+</div>
+
+<h2>Course Description</h2>
+
+<p>This course provides a concrete understanding of reinforcement learning and its applications. The ultimate goal of the course is to develop hands-on skills in <em>deep reinforcement learning</em>, for which fundamentals of reinforcement learning are first discussed and then deep reinforcement learning algorithms are studied. The course is designed in <em>three major parts:</em> Part I introduces basic definitions and fundamental concepts; Part II covers fundamental reinforcement learning methods (model-based and model-free) with a deep understanding of each; Part III explores deep reinforcement learning, employing deep neural networks to approximate the techniques in Part II (e.g., function approximation, deep Q-learning, policy gradient methods, and proximal policy optimization).</p>
+<p>
+<div style="background-color: rgba(244, 233, 233, 0.99); padding: 10px;">
+<h3>Part I: First Things in Reinforcement Learning</h3>
+<ol>
+  <li><strong>General framework of reinforcement learning</strong></li>
+  <ul>
+    <li>The multi-armed bandit problem</li>
+    <li>Components: Agent, Environment, State, Action, Reward, Policy</li>
+    <li>Comparison to supervised learning</li>
+    <li>Value function and policy design</li>
+    <li>Problem of Credit Assignment</li>
+  </ul>
+  <li><strong>Exploration versus Exploitation</strong></li>
+  <ul>
+    <li>Revisiting the multi-armed bandit problem</li>
+    <li>Trade-off between exploration and exploitation</li>
+  </ul>
+  <li><strong>Introduction to Gymnasium library</strong></li>
+  <ul>
+    <li>Generating an environment in Gymnasium</li>
+    <li>Our first try: a simple game</li>
+  </ul>
+</ol>
+</div>
+
+<div style="background-color: rgba(246, 250, 246, 0.9); padding: 10px;">
+<h3>Part II: Fundamentals of Reinforcement Learning</h3>
+<ol>
+  <li><strong>Model-based reinforcement learning</strong></li>
+  <ul>
+    <li>Markov Decision Processes (MDPs)</li>
+    <li>Value and policy with MDPs</li>
+    <li>Dynamic programming and Bellman equation</li>
+    <li>Value iteration and Policy iteration algorithms</li>
+  </ul>
+
+  <li><strong>Model-free reinforcement learning</strong></li>
+  <ul>
+    <li>On-policy versus off-policy approaches for model-free reinforcement learning</li>
+    <ul>
+      <li>Difference and properties of on-policy and off-policy methods</li>
+    </ul>
+    <li>On-policy approach 1: Monte-Carlo (MC) learning</li>
+    <li>On-policy approach 2: Temporal Difference (TD) learning</li>
+    <li>From value function to Q-function</li>
+    <li>On-policy approach 3: State-Action-Reward-State-Action (SARSA)</li>
+    <li>Off-policy approach: Q-learning</li>
+  </ul>
+
+  <li><strong>Revisiting our simple game</strong></li>
+  <ul>
+    <li>Implementing value and policy iteration in Gymnasium</li>
+  </ul>
+</ol>
+</div>
+
+<div style="background-color: rgba(221, 236, 239, 0.99); padding: 10px;">
+<h3>Part III: Deep Reinforcement Learning</h3>
+<ol>
+  <li><strong>Reviewing main concepts in deep learning</strong></li>
+  <ul>
+    <li>Universal approximation theorem</li>
+    <li>Deep neural networks</li>
+    <ul>
+      <li>Training a neural net via gradient descent</li>
+      <li>Reviewing neural network implementation in PyTorch</li>
+    </ul>
+  </ul>
+
+  <li><strong>Preliminaries of Deep Reinforcement Learning</strong></li>
+  <ul>
+    <li>Function approximation</li>
+    <ul>
+      <li>Space reduction via function approximation</li>
+    </ul>
+    <li>Simple function approximator</li>
+    <li>Deep neural networks as function approximators</li>
+    <li>Looking into a new example</li>
+  </ul>
+
+  <li><strong>Deep off-policy reinforcement learning</strong></li>
+  <ul>
+    <li>Value networks: value function approximation via deep neural networks</li>
+    <li>Deep Q-learning and Deep Q-networks (DQNs)</li>
+    <li>Properties of deep Q-learning: sample efficiency and instability</li>
+    <li>Visiting our new example</li>
+  </ul>
+
+  <li><strong>Deep on-policy methods</strong></li>
+  <ul>
+    <li>Policy networks: policy approximation via deep neural networks</li>
+    <li>Policy gradient methods</li>
+    <ul>
+      <li>Direct policy update</li>
+      <li>Properties of deep policy networks: sample inefficiency versus stability</li>
+    </ul>
+    <li>Trust Region Policy Optimization (TRPO)</li>
+    <ul>
+      <li>Constraining policy update via Kullback-Leibler divergence</li>
+      <li>Idea of surrogate objective function</li>
+    </ul>
+    <li>Proximal Policy Optimization (PPO)</li>
+    <ul>
+      <li>Clipping</li>
+      <li>Complexity of PPO</li>
+    </ul>
+    <li>Revisiting our new example</li>
+  </ul>
+
+  <li><strong>Actor-Critic Methods</strong></li>
+  <ul>
+    <li>Advantage Actor Critic (A2C)</li>
+    <li>TRPO and PPO with value network</li>
+    <li>Deterministic Policy Gradient</li>
+    <ul>
+      <li>Deep Deterministic Policy Gradient (DDPG)</li>
+    </ul>
+    <li>Soft Actor Critic (SAC)</li>
+    <li>Extensions and modification</li>
+  </ul>
+
+  <li><strong>Applications and advancements of deep reinforcement learning</strong></li>
+  <ul>
+    <li>Looking into some successful examples: Alpha-Go, Alpha-Zero, Pluribus, and OpenAI Five</li>
+    <li>Sample applications of deep reinforcement learning and project poster session</li>
+    <li>Recent advancements in deep reinforcement learning</li>
+  </ul>
+</ol>
+</div>
+</p>
+
+
+
+<h2>Course Evaluation</h2>
+<p>The learning procedure consists of three components:
+  <table style="border-collapse: collapse; width: 90%;margin-top: 10pt; margin-bottom: 10pt;">
+    <tr class="row1" style="background-color: rgb(242, 242, 242);">
+      <td><em>Component</em></td>
+      <td><em>Grade %</em></td>
+      <td><em></em></td>
+    </tr>
+    <tr class="row2" style="background-color: rgb(201, 235, 247);">
+      <td><strong>Assignments</strong></td>
+      <td><strong>{{site.assgn_mark}}</strong></td>
+      <td><em>{{site.assgn_desc}}</em></td>
+    </tr>
+    <tr class="row3" style="background-color: rgb(217, 244, 217);">
+      <td><strong>Exam</strong></td>
+      <td><strong>{{site.exam_mark}}</strong></td>
+      <td><em>{{site.exam_desc}}</em></td>
+    </tr>
+    <tr class="row4" style="background-color: rgb(252, 215, 215);">
+      <td><strong>Project</strong></td>
+      <td><strong>{{site.project_mark}}</strong></td>
+      <td><em>{{site.project_desc}}</em></td>
+    </tr>
+  </table>
+  Let's get through them a bit in detail.</p>
+  
+  <h2>Assignment</h2>
+  <p>{{site.assgn_txt}}</p>
+  
+  <h2>Exam</h2>
+  <p>{{site.exam_txt}}</p>
+  
+  <h2>Course Project</h2>
+  <p>{{site.project_txt}}</p>
+  

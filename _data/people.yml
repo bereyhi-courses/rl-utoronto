@@ -1,0 +1,25 @@
+instructors:
+  - name: Ali Bereyhi
+    profile_pic: /_images/pp/instructor.jpg
+    title: Assistant Professor (TS)
+    affil: ECE Department
+    address: Bahen 7208
+    webpage: https://www.bereyhi.com/
+
+
+teaching_assistants:
+  - name: Fahimeh Fazel
+    profile_pic: /_images/pp/TAava.png
+    webpage: mailto:fahimeh.fazel@mail.utoronto.ca
+
+  - name: Ahmed Al-Mehdhar
+    profile_pic: /_images/pp/TAava.png
+    webpage: mailto:ahmed.almehdhar@mail.utoronto.ca
+
+  - name: Chong Zhang
+    profile_pic: /_images/pp/TAava.png
+    webpage: mailto:chon.zhang@mail.utoronto.ca
+  
+  - name: Mohammadreza Safavi
+    profile_pic: /_images/pp/TAava.png
+    webpage: mailto:mohammadreza.safavi@mail.utoronto.ca

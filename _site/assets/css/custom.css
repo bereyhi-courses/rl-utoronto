@@ -1,0 +1,22 @@
+/* Change the header background */
+.site-header {
+    background-color: rgb(202, 209, 219) !important;
+  }
+  
+header.site-header .site-title,
+header.site-header .site-title:visited {
+    color: black !important; /* Black */
+  }
+/* Navigation bar links */
+.site-nav .page-link {
+    color: black !important;           /* text color */
+    background-color: transparent !important; /* removes old background */
+  }
+  
+  /* Navigation hover effect (optional) */
+  .site-nav .page-link:hover {
+    color: blue !important;          /* lighter yellowish on hover */
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    border-radius: 4px;
+    padding: 2px 6px;
+  }

@@ -1,0 +1,93 @@
+# schedule
+day1: Tuesdays
+time1: 5 PM - 7 PM
+loc1: <strong>BA-1170</strong> - <em>Bahen Centre for Information Technology</em>
+
+day2: Fridays
+time2: 5 PM - 7 PM
+loc2: <strong>BA-1180</strong> - <em>Bahen Centre for Information Technology</em>
+
+dayTut: TBA
+timeTut: TBA
+locTut: <strong>TBA</strong> - <em>TBA</em>
+
+start_date: September 2, 2025
+start_description: Please note that the lecture halls are different in Tuesdays and Fridays.
+
+start_dateTut: TBA
+
+dayOffice: TBA 
+timeOffice: TBA
+
+# Site settings
+course_name: Reinforcement Learning
+course_description: "This course develops hands-on skills in deep reinforcement learning, for which fundamentals of reinforcement learning are first discussed and then deep reinforcement learning algorithms are studied. The course is designed in three major parts: Part I gives the students a warm welcome by taking them through the basic definitions and fundamental concepts. Part II explains fundamental reinforcement learning methods by touching the key model-based and model-free techniques and providing deep understanding of these methods. Part III explores deep reinforcement learning, where deep neural networks are employed to efficiently approximate the developed techniques in Part II. In this part, we take a look into several algorithms, such as deep Q-learning, policy gradient methods, e.g., trust-region and proximal policy optimization algorithms, and actor-critic methods."
+course_semester: "Fall 2025"
+
+
+assgn_mark: 42%
+assgn_desc: "3 assignment sets"
+assgn_txt: "This is the most important part! We are learning an applied course and hence should implement whatever we learn. There will be three sets of assignments. Roughly speaking, the first one goes through fundamentals of reinforcement learning. The second assignment gets more serious in terms of implementation and develops your knowledge on tabular reinforcement learning methods. The last one gives you a chance to implement some mini-project on Deep Reinforcement Learning. The assignments will count for 42% of your final mark."
+
+exam_mark: 25%
+exam_desc: "midterm exam"
+exam_txt: "This will be a theory-side-of-the-course exam. When we are over with Part 2, there will be an exam. The exam will ask questions on theory. There will be of course no programming questions in the exam. The exam will only evaluate the understanding of fundamental concepts and reinforcement learning methods through questions that can be either explained in words or solved simply by hand. This exam will comprise 25% of the total mark."
+
+project_mark: 33%
+project_desc: "selected from predefined set of projects or open-ended"
+project_txt: "This is the exciting part of the course, where we could challenge ourselves and test the development of our skills. The topic of the project is set to be an application of deep reinforcement learning. The project is designed in advance with its milestones and tasks being clear. Required documents for the project will be shared. You then need to use your knowledge to gradually finish the required tasks by the end of semester. You have further the option to define your own project. An open-ended project must be defined to be of the same level of the predefined projects, with the milestones being clearly specified. The final projects will be presented in the seminar session which holds on the last week."
+
+
+baseurl: "/rl-utoronto" # the subpath of your site, e.g. /blog/
+url: "https://bereyhi-courses.github.io/" # the base hostname & protocol for your site
+
+schoolname: "University of Toronto"
+schoolurl: "https://www.ece.utoronto.ca"
+personal_page: "bereyhi.com"
+
+address: |
+    The Edward S. Rogers Sr. Department of Electrical and Computer Engineering
+    University of Toronto
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+minima:
+  include_css:
+    - /assets/css/custom.css
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include:
+  - assets
+  - _images
+  - _css
+
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

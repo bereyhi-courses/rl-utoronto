@@ -1,0 +1,8 @@
+
+    {% if include.lecture.links %}
+    {% for link in include.lecture.links %}
+    [<a title="Download {{ link.name }}" href="
+    https://www.youtube.com/{{ lecture.videoID }}
+    ">{{ link.name }}</a>]
+    {% endfor %}
+    {% endif %}

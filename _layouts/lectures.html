@@ -1,0 +1,80 @@
+---
+layout: page
+---
+
+<h1>Lectures</h1>
+<p>{{content}}</p>
+
+<ul id="archive">
+{% for lecture in site.lectures %}
+{% if lecture.stat == "lec" %}
+<li class="archiveposturl" style="background: transparent">
+<div class="lecture-container">
+    <div style="text-align: center; margin-top: 0px; margin-bottom: 10px; margin-right: 20px;">
+      <iframe width="250" height="150"
+        src="https://www.youtube.com/embed/{{ lecture.videoID }}"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="content">
+        <span style="font-weight: bold;">{{ lecture.title }}</span><br>
+
+        <strong> {{ lecture.tldr }}: <em>{{lecture.description}}</em></strong>
+        <br/>
+        <strong>
+          [<a title="Download {{ link.name }}" href="https://youtu.be/{{ lecture.videoID }}">link</a>]
+        <!-- {% include lecture_links.html lecture=lecture %} -->
+        </strong>
+
+        {% if lecture.content != '' %}
+        <br/>
+        <div class="markdown-content" style="margin-top: 3px;">
+        {{ lecture.content }}
+        </div>
+        {% endif %}
+    </div>
+</div>
+</li>
+{% endif %}
+{% endfor %}
+</ul>
+
+<!-- <h1>Review Lectures</h1>
+<p>Here, you can find review lectures on some key deep learning topics. It is strongly suggested that you watch these videos to recap those key concepts, as they are frequently used in the course.</p>
+
+<ul id="archive">
+{% for lecture in site.lectures %}
+{% if lecture.stat == "review" %}
+<li class="archiveposturl" style="background: transparent">
+<div class="lecture-container">
+    <div style="text-align: center; margin-top: 0px; margin-bottom: 10px; margin-right: 20px;">
+      <iframe width="250" height="150"
+        src="https://www.youtube.com/embed/{{ lecture.videoID }}"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="content">
+        <span style="font-weight: bold;">{{ lecture.title }}</span><br>
+
+        <strong> {{ lecture.tldr }}: <em>{{lecture.description}}</em></strong>
+        <br/>
+        <strong>
+          [<a title="Download {{ link.name }}" href="https://youtu.be/{{ lecture.videoID }}">link</a>]
+        </strong>
+
+        {% if lecture.content != '' %}
+        <br/>
+        <div class="markdown-content" style="margin-top: 3px;">
+        {{ lecture.content }}
+        </div>
+        {% endif %}
+    </div>
+</div>
+</li>
+{% endif %}
+{% endfor %}
+</ul> -->
