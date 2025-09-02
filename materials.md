@@ -10,11 +10,10 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file
 
 ### Chapter 1: RL Framework
-<!-- * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Motivation to Learn DL
-* [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): Learning from Data: _Basics_
-* [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Perceptron Machine
-* [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Deep Neural Networks
-* [Section 5]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec5.pdf): Function Optimization -->
+* [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Multi-armed Bandit
+* [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): RL PRoblem: _Definitions and Basics_
+* [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Playing in RL Framework
+* [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Our First Game
 
 
 
