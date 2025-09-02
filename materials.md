@@ -11,7 +11,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 ### Chapter 1: RL Framework
 * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Multi-armed Bandit
-* [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): RL PRoblem: _Definitions and Basics_
+* [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): RL Problem: _Definitions and Basics_
 * [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Playing in RL Framework
 * [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Our First Game
 
