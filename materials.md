@@ -31,11 +31,11 @@ Most of the contents covered in the first two parts of course can be further rea
 
 The following old preprint is also a good summary of important RL algorithms
 
-* [[CS] Csaba Szepesvari, _Algorithms for Reinforcement Learning_ (2009)](https://www.bishopbook.com/)
+* [[CS] Csaba Szepesvari, _Algorithms for Reinforcement Learning_ (2009)](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 
 Most materials in the third part, i.e., deep RL, are collected from research papers. The following textbook is also good resources for __practicing hands-on skills.__
 
-* [Maxim Lapan. _Deep Reinforcement Learning Hands-On._ O'Reilly Media, Inc., 2020.](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+* [Maxim Lapan. _Deep Reinforcement Learning Hands-On._ O'Reilly Media, Inc., 2020.](https://www.oreilly.com/library/view/deep-reinforcement-learning/9781838826994/)
 
 
 ## Reading List
