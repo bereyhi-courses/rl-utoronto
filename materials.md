@@ -9,12 +9,12 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file
 
-### Chapter 1: Fundamentals of Deep Learning
-* [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Motivation to Learn DL
+### Chapter 1: RL Framework
+<!-- * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Motivation to Learn DL
 * [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): Learning from Data: _Basics_
 * [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Perceptron Machine
 * [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Deep Neural Networks
-* [Section 5]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec5.pdf): Function Optimization
+* [Section 5]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec5.pdf): Function Optimization -->
 
 
 
@@ -25,16 +25,17 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 ## Book
 
-There is indeed no single textbook for this course, and we use various resources in the course. The following textbooks have covered the key notions in the course. 
+Most of the contents covered in the first two parts of course can be further read in
 
-* [[GYC] Goodfellow, Ian, et al. _Deep Learning._ MIT Press, 2016.](https://www.deeplearningbook.org/)
-* [[BB] Bishop, Christopher M., and Hugh Bishop. _Deep Learning: Foundations and Concepts._ Springer Nature, 2023.](https://www.bishopbook.com/)
-* [[Ag] C. Aggarwal. _Neural Networks and Deep Learning._ Springer, 2018.](https://link.springer.com/book/10.1007/978-3-319-94463-0)
+* [[SB] Sutton, R., and Barto, A. _Reinforcement Learning: An Introduction,_ 2nd Edition, MIT Press, 2018](http://incompleteideas.net/book/the-book-2nd.html)
 
-The following textbooks are also good resources for __practicing hands-on skills.__ Note that we are __not__ simply learning to implement only! We study the fundamentals of deep learning. Of course, we try to get our hands dirty as well and learn how to do implementation.
+The following old preprint is also a good summary of important RL algorithms
 
-* [Chollet, Francois. _Deep learning with Python._ Manning Publications, 2021.](https://www.manning.com/books/deep-learning-with-python)
-* [Müller, Andreas, and Sarah Guido. _Introduction to Machine Learning with Python._ O'Reilly Media, Inc., 2016.](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+* [[CS] Csaba Szepesvari, _Algorithms for Reinforcement Learning_ (2009)](https://www.bishopbook.com/)
+
+Most materials in the third part, i.e., deep RL, are collected from research papers. The following textbook is also good resources for __practicing hands-on skills.__
+
+* [Maxim Lapan. _Deep Reinforcement Learning Hands-On._ O'Reilly Media, Inc., 2020.](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
 
 
 ## Reading List
