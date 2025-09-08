@@ -42,13 +42,17 @@ Most materials in the third part, i.e., deep RL, are collected from research pap
 This section will be completed gradually through the semester.
 
 
-<!-- ### Chapter 1: 
-#### Tokenization and Embedding
-* [Tokenization](https://web.stanford.edu/~jurafsky/slp3/2.pdf): Chapter 2 of [[JM]](https://web.stanford.edu/~jurafsky/slp3/)
-* [Embedding](https://web.stanford.edu/~jurafsky/slp3/6.pdf): Chapter 6 of [[JM]](https://web.stanford.edu/~jurafsky/slp3/)
+### Chapter 1: RL Framework
+#### Introduction
+* [Intro to RL](http://incompleteideas.net/book/the-book-2nd.html): Chapter 1 - Sections 1.1 and 1.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
-* [Original BPE Algorithm](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM): Original BPE Algorithm proposed by Philip Gage in 1994
-* [BPE for Tokenization](https://arxiv.org/abs/1508.07909): Paper _Neural machine translation of rare words with subword units_ by _Rico Sennrich, Barry Haddow, and Alexandra Birch_ presented in ACL 2016 that adapted BPE for NLP -->
+#### Multi-armed Bandit
+* [k-armed Bandit](http://incompleteideas.net/book/the-book-2nd.html): Chapter 2 - Section 2.1 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Robbins' Paper](https://www.ams.org/journals/bull/1952-58-05/S0002-9904-1952-09620-8/S0002-9904-1952-09620-8.pdf): Paper _Some aspects of the sequential design of experiments_ by _H. Robbins_ published in the _Bulletin of the American Mathematical Society_ in 1952 formulating multi-armed bandit as we know it nowadays
+
+#### RL Problem Formulation
+* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.1 to 3.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
 
 
 
