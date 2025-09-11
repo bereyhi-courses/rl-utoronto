@@ -53,9 +53,8 @@ This section will be completed gradually through the semester.
 #### RL Problem Formulation
 * [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.1 to 3.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
-
-
-
+#### Policy, Value, Action-Value, and Optimal Policy
+* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.5 to 3.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
 
 
