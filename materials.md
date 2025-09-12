@@ -16,6 +16,12 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Our First Game
 
 
+### Chapter 2: Model-based RL
+* [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): Markov Decision Process and Bellman Equation
+* [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec2.pdf): Bellman Optimality
+* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Policy and Value Iteration
+
+
 
 <!-- ## Tutorial Notebooks -->
 <!-- The tutorial notebooks can be accessed below.
