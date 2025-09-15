@@ -12,5 +12,3 @@ hide_from_announcments: false
 **Lecture Notes:**
 - [Chapter 1 - Section 3]({{ site.baseurl }}/assets/Notes/CH1/CH1_Sec3.pdf) 
 
-**Further Reads:**
-* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.6 and 3.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)

@@ -57,10 +57,16 @@ This section will be completed gradually through the semester.
 * [Robbins' Paper](https://www.ams.org/journals/bull/1952-58-05/S0002-9904-1952-09620-8/S0002-9904-1952-09620-8.pdf): Paper _Some aspects of the sequential design of experiments_ by _H. Robbins_ published in the _Bulletin of the American Mathematical Society_ in 1952 formulating multi-armed bandit as we know it nowadays
 
 #### RL Problem Formulation
-* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.1 to 3.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
-
-#### Policy, Value, Action-Value, and Optimal Policy
-* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.5 to 3.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 1 - Sections 1.3 and 1.5 [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
 
+#### Terminal State and Episode
+* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Section 3.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+### Chapter 2: Model-based RL
+#### MDPs 
+* [Intro to RL](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.1 and 3.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Bellman Equation
+* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.6 and 3.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
