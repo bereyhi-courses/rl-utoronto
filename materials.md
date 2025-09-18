@@ -23,9 +23,9 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 
 
-<!-- ## Tutorial Notebooks -->
-<!-- The tutorial notebooks can be accessed below.
-* [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): PyTorch Overview, Batch Training, Embedding, and Tokenization, by __Amir Hossein Mobasheri__ -->
+## Tutorial Notebooks and Videos
+The tutorial notebooks can be accessed below. 
+* [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): Overview on RL environment and Introduction to Gymnasium, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b1e2e52ab234989cb9da863f4c4fbadc)
 
 
 ## Book
