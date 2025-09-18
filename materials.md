@@ -67,6 +67,6 @@ This section will be completed gradually through the semester.
 #### MDPs 
 * [Intro to RL](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.1 and 3.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
-#### Bellman Equation
-* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.6 and 3.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+#### Bellman Equation and Optimal Policy
+* [Bellman and Optimality](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.6 and 3.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
