@@ -45,7 +45,7 @@ The course project will be seriously started in the second half of the course. I
 </div>
 </p>
 
-## Predefined Project Topics
+## Project Topics
 
 
 ### Category A: _Deep RL from Scratch_ 
