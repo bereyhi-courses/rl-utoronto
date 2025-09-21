@@ -85,7 +85,7 @@ The course project will be seriously started in the second half of the course. I
 
 #### __Topic C-1: Controlling Robotic Arm with RL__
 - [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryC/TopicC_1.pdf) 
-- __Objective:__ Design and implement an RL agent to control a robotic arm in a \textit{reaching task}. The agent should learn to move the robot’s end-effector to a target location in continuous action space. The project aims to compare RL algorithms such as PPO and SAC, and evaluate their robustness under environment modifications.
+- __Objective:__ Design and implement an RL agent to control a robotic arm in a reaching task. The agent should learn to move the robot’s end-effector to a target location in continuous action space. The project aims to compare RL algorithms such as PPO and SAC, and evaluate their robustness under environment modifications.
 
 #### __Topic C-2: RL for Robotic Locomotion__
 - [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryC/TopicC_2.pdf) 
