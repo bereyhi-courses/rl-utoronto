@@ -70,3 +70,11 @@ This section will be completed gradually through the semester.
 #### Bellman Equation and Optimal Policy
 * [Bellman and Optimality](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Sections 3.6 and 3.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
+
+#### Policy Iteration 
+* [Policy Evaluation](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Section 4.1 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Policy Improvement and Iteration](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Sections 4.2 and 4.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Value Iteration 
+* [Value Iteration](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Sections 4.4, 4.6 and 4.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
