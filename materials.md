@@ -21,6 +21,14 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec2.pdf): Bellman Optimality
 * [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Policy and Value Iteration
 
+### Chapter 3: Model-free Tabular RL
+* [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): Evaluation via Monte-Carlo 
+* [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Temporal Difference 
+* [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Deep Bootstrapping and Credit Assignment
+* [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Online Control via Monte-Carlo
+* [Section 5]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec5.pdf): Online Control via TD - _SARSA and Q-Learning_
+
+
 
 
 ## Tutorial Notebooks and Videos
