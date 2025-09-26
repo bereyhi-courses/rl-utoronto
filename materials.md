@@ -86,3 +86,6 @@ This section will be completed gradually through the semester.
 #### Value Iteration 
 * [Value Iteration](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Sections 4.4, 4.6 and 4.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
+### Chapter 2: Model-free RL
+#### Monte Carlo Value Learning
+* [Monte-Carlo](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Sections 5.1 and 5.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
