@@ -34,6 +34,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ## Tutorial Notebooks and Videos
 The tutorial notebooks can be accessed below. 
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): Overview on RL environment and Introduction to Gymnasium, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b1e2e52ab234989cb9da863f4c4fbadc)
+* [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.ipynb): Overview on RL environment and Introduction to Gymnasium, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/d4f9c09f5081542d3592b146e526cc71)
 
 
 ## Book
@@ -87,5 +88,14 @@ This section will be completed gradually through the semester.
 * [Value Iteration](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Sections 4.4, 4.6 and 4.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
 ### Chapter 2: Model-free RL
-#### Monte Carlo Value Learning
-* [Monte-Carlo](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Sections 5.1 and 5.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+#### Monte Carlo Approach
+* [Monte-Carlo](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Sections 5.1, 5.2 and 5.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Temporal Difference
+* [TD-0](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Sections 6.1, 6.3 and 6.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Deep Temporal Difference
+* [TD-n](http://incompleteideas.net/book/the-book-2nd.html): Chapter 7 - Sections 7.1 and 7.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Credit Assignment and Eligibility Trace
+* [TD-lambda](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.1 to 12.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)

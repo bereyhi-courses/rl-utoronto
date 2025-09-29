@@ -10,7 +10,7 @@ videoID: CN69-xSnMGM
 hide_from_announcments: false
 ---
 **Lecture Notes:**
-- [Chapter 2 - Section 3]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec3.pdf) 
+- [Chapter 3 - Section 1]({{ site.baseurl }}/assets/Notes/CH2/CH3_Sec1.pdf) 
 
 **Further Reads:**
 * [Monte-Carlo](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Sections 5.1 and 5.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
