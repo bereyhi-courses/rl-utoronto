@@ -34,7 +34,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ## Tutorial Notebooks and Videos
 The tutorial notebooks can be accessed below. 
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): Overview on RL environment and Introduction to Gymnasium, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b1e2e52ab234989cb9da863f4c4fbadc)
-* [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.ipynb): Overview on RL environment and Introduction to Gymnasium, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/d4f9c09f5081542d3592b146e526cc71)
+* [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.ipynb): Policy and Value Iteration, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/d4f9c09f5081542d3592b146e526cc71)
 
 
 ## Book
