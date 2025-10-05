@@ -35,6 +35,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 The tutorial notebooks can be accessed below. 
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): Overview on RL environment and Introduction to Gymnasium, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b1e2e52ab234989cb9da863f4c4fbadc)
 * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.ipynb): Policy and Value Iteration, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/d4f9c09f5081542d3592b146e526cc71)
+* [Tutorial 3](https://colab.research.google.com/drive/1lOzNXLveTXTaTx5fHNUsAHnrHJiixMv3?usp=sharing): Monte Carlo Learning, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/44b2dea347ae3fb106590342ae394e80)
 
 
 ## Book
@@ -97,5 +98,30 @@ This section will be completed gradually through the semester.
 #### Deep Temporal Difference
 * [TD-n](http://incompleteideas.net/book/the-book-2nd.html): Chapter 7 - Sections 7.1 and 7.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
-#### Credit Assignment and Eligibility Trace
-* [TD-lambda](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.1 to 12.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+#### Credit Assignment
+* [TD-lambda](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.1 to 12.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Eligibility Trace
+* [Eligibility Tracing](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.4 and 12.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Monte-Carlo Control
+* [MC Control](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Sections 5.3 and 5.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### &epsilon;-Greedy Improvement
+* [&epsilon;-Greedy](http://incompleteideas.net/book/the-book-2nd.html): Chapter 2 - Sections 2.5 and 2.6 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Temporal-Difference Control
+* [TD Control](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Sarsa Algorithm
+* [Sarsa](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Sarsa](http://incompleteideas.net/book/the-book-2nd.html): Chapter 10 - Sections 10.2 and 10.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Sarsa](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Section 12.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Importance Sampling and Off-policy Learning
+* [Importance Sampling](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Section 5.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Off Policy Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.9 and 12.11 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Q-Learning
+* [Q-Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Sarsa](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Section 12.10 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
