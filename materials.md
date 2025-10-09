@@ -36,6 +36,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): Overview on RL environment and Introduction to Gymnasium, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b1e2e52ab234989cb9da863f4c4fbadc)
 * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.ipynb): Policy and Value Iteration, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/d4f9c09f5081542d3592b146e526cc71)
 * [Tutorial 3](https://colab.research.google.com/drive/1lOzNXLveTXTaTx5fHNUsAHnrHJiixMv3?usp=sharing): Monte Carlo Learning, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/44b2dea347ae3fb106590342ae394e80)
+* [Tutorial 4](https://colab.research.google.com/drive/1gQIEhCgANZBN76hyNT67S2y5Iv5ODVNJ?usp=sharing): TD Learning, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/40f7e689ccb600d0577e9d1181509798)
 
 
 ## Book
@@ -124,4 +125,4 @@ This section will be completed gradually through the semester.
 
 #### Q-Learning
 * [Q-Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
-* [Sarsa](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Section 12.10 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Q-Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Section 12.10 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
