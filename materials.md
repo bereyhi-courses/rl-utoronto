@@ -28,6 +28,13 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Online Control via Monte-Carlo
 * [Section 5]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec5.pdf): Online Control via TD - _SARSA and Q-Learning_
 
+### Chapter 4: RL with Function Approximation
+* [Section 1]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec1.pdf): Tabular RL vs RL with Function Approximation
+* [Section 2]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Prediction with Function Approximation  
+* [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Control with Function Approximation  
+* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Deep Q-Learning
+
+
 
 
 
