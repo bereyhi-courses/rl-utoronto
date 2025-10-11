@@ -10,7 +10,7 @@ videoID: Z2JomUL-_9Q
 hide_from_announcments: false
 ---
 **Lecture Notes:**
-- [Chapter 3 - Section 2]({{ site.baseurl }}/assets/Notes/CH2/CH3_Sec2.pdf) 
+- [Chapter 3 - Section 2]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec2.pdf) 
 
 **Further Reads:**
 * [TD-0](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.1 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)

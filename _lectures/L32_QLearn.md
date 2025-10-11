@@ -2,14 +2,14 @@
 type: lecture
 date: 2025-10-07T18:30:00
 title: "Lecture 32: Q-Learning"
-tldr: "Importance Sampling"
+tldr: "Q-Learning"
 stat: lec
 # for lectures stat: lec
 description: We discuss a specific form of off-policy RL, namely Q-learning. Here, we play &epsilon;-greedy, but we learn the value of the greedy policy. This leads to a simple control loop, often called the Q-Learning Algorithm. 
 videoID: jsSRiQCOUXA 
 hide_from_announcments: false
 ---
-- [Chapter 3 - Section 5]({{ site.baseurl }}/assets/Notes/CH2/CH3_Sec5.pdf) 
+- [Chapter 3 - Section 5]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec5.pdf) 
 
 **Further Reads:**
 * [Q-Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)

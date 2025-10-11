@@ -9,7 +9,7 @@ description: We extend the idea of bootstrapping to estimate values from deeper 
 videoID: ovXQN2zrAAs 
 hide_from_announcments: false
 ---
-- [Chapter 3 - Section 3]({{ site.baseurl }}/assets/Notes/CH2/CH3_Sec3.pdf) 
+- [Chapter 3 - Section 3]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec3.pdf) 
 
 **Further Reads:**
 * [TD-n](http://incompleteideas.net/book/the-book-2nd.html): Chapter 7 - Sections 7.1 and 7.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)

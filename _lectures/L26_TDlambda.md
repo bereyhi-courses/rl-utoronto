@@ -9,7 +9,7 @@ description: We can improve sample efficiency by averaging TD over depth. This i
 videoID: yyn7xAypL8E 
 hide_from_announcments: false
 ---
-- [Chapter 3 - Section 3]({{ site.baseurl }}/assets/Notes/CH2/CH3_Sec3.pdf) 
+- [Chapter 3 - Section 3]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec3.pdf) 
 
 **Further Reads:**
 * [TD-lambda](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.1 to 12.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)

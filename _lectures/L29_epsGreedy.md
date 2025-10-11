@@ -9,7 +9,7 @@ description: We discuss &epsilon;-greedy approach which enables us adding explor
 videoID: wehV_wMFQOE
 hide_from_announcments: false
 ---
-- [Chapter 3 - Section 4]({{ site.baseurl }}/assets/Notes/CH2/CH3_Sec4.pdf) 
+- [Chapter 3 - Section 4]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec4.pdf) 
 
 **Further Reads:**
 * [&epsilon;-Greedy](http://incompleteideas.net/book/the-book-2nd.html): Chapter 2 - Sections 2.5 and 2.6 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)

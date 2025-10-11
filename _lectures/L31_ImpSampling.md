@@ -9,7 +9,7 @@ description: We can learn the optimal policy while playing with another policy. 
 videoID: 9WOqQhR8IiE 
 hide_from_announcments: false
 ---
-- [Chapter 3 - Section 5]({{ site.baseurl }}/assets/Notes/CH2/CH3_Sec5.pdf) 
+- [Chapter 3 - Section 5]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec5.pdf) 
 
 **Further Reads:**
 * [Importance Sampling](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Section 5.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
