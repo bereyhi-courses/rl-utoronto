@@ -12,3 +12,5 @@ hide_from_announcments: false
 - [Chapter 4 - Section 1]({{ site.baseurl }}/assets/Notes/CH4/CH4_Sec1.pdf) 
 
 **Further Reads:**
+* [Function Approximation for RL](http://incompleteideas.net/book/the-book-2nd.html): Chapter 9 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Neuro-dynamic Programming](https://ieeexplore.ieee.org/abstract/document/478953) Paper _Neuro-dynamic programming: an overview_ published in 1995 by _D. Bertsekas and J. Tsitsiklis_ discussing function approximation for value learning

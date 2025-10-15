@@ -44,7 +44,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.ipynb): Policy and Value Iteration, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/d4f9c09f5081542d3592b146e526cc71)
 * [Tutorial 3](https://colab.research.google.com/drive/1lOzNXLveTXTaTx5fHNUsAHnrHJiixMv3?usp=sharing): Monte Carlo Learning, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/44b2dea347ae3fb106590342ae394e80)
 * [Tutorial 4](https://colab.research.google.com/drive/1gQIEhCgANZBN76hyNT67S2y5Iv5ODVNJ?usp=sharing): TD Learning, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/40f7e689ccb600d0577e9d1181509798)
-
+* [Tutorial 5](https://q.utoronto.ca/courses/414555/modules): Midterm Review by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/5b3045ec1edec245607084dc5361ca90)
 
 ## Book
 
@@ -111,6 +111,7 @@ This section will be completed gradually through the semester.
 
 #### Eligibility Trace
 * [Eligibility Tracing](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.4 and 12.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [RL with Eligibility](https://link.springer.com/article/10.1023/A:1018012322525) Paper _Reinforcement Learning with Replacing Eligibility Traces_ published in 1996 by _S. Singh and R. Sutton_ proposing the idea of including eligibility tracing in RL
 
 #### Monte-Carlo Control
 * [MC Control](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Sections 5.3 and 5.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
@@ -122,6 +123,7 @@ This section will be completed gradually through the semester.
 * [TD Control](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
 #### Sarsa Algorithm
+* [Online Q-Learning](https://www.researchgate.net/publication/2500611_On-Line_Q-Learning_Using_Connectionist_Systems) Article _On-Line Q-Learning Using Connectionist Systems_ published in 1994 by _G. Rummery and M. Niranjan_ proposing SARSA as an online version of Q-Learning
 * [Sarsa](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 * [Sarsa](http://incompleteideas.net/book/the-book-2nd.html): Chapter 10 - Sections 10.2 and 10.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 * [Sarsa](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Section 12.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
@@ -131,5 +133,30 @@ This section will be completed gradually through the semester.
 * [Off Policy Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.9 and 12.11 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 
 #### Q-Learning
+* [Q-Learning Paper](https://link.springer.com/article/10.1007/bf00992698) Paper _Q-learning_ published in 1992 by _C Watkins and P. Dayan_proposing the off-policy learning as in Q-learning algorithm
 * [Q-Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
 * [Q-Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Section 12.10 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+
+#### Q-Learning vs SARSA
+*[Convergence](https://link.springer.com/article/10.1007/bf00992698) Paper _The O.D.E. Method for Convergence of Stochastic Approximation and Reinforcement Learning_ published in 2000 by _V. Borkar and S. Meyn_ studying convergence of Q-Learning and SARSA
+
+
+### Chapter 4: RL with Function Approximation
+#### Function Approximation for Value Estimation
+* [Function Approximation for RL](http://incompleteideas.net/book/the-book-2nd.html): Chapter 9 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Neuro-dynamic Programming](https://ieeexplore.ieee.org/abstract/document/478953) Paper _Neuro-dynamic programming: an overview_ published in 1995 by _D. Bertsekas and J. Tsitsiklis_ discussing function approximation for value learning
+
+#### Prediction via Function Approximation
+* [Prediction with FA](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf): Chapter 3 of [[CS]](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+* [TD with FA](https://proceedings.neurips.cc/paper_files/paper/1996/hash/e00406144c1e7e35240afed70f34166a-Abstract.html) Paper _Analysis of Temporal-Diffference Learning with Function Approximation_ published in 1996 by _J. Tsitsiklis and B. Roy_ analyzing Prediction with parameterized models
+* [FA vs Tabular](https://dl.acm.org/doi/abs/10.1145/1273496.1273589) Paper _Analyzing feature generation for value-function approximation_ published in 2008 by _R. Parr et al._ discussing connections of RL with FA to tabular RL
+* [RL with FA](http://leemon.com/papers/1995b.pdf) Paper _Residual Algorithms: Reinforcement Learning with Function Approximation_ published in 1995 by _L. BAird_ giving some critics to RL with FA
+
+#### Control via Function Approximation
+* [Control with FA](http://incompleteideas.net/book/the-book-2nd.html): Chapters 10 and 11 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Control with FA](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf): Chapter 4 of [[CS]](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+
+
+#### Deep Q-Learning
+* [Off-Policy with FA](https://proceedings.neurips.cc/paper_files/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) Paper _A Convergent O(n) Algorithm for Off-policy Temporal-difference Learning with Linear Function Approximation_ published in 2008 by _R. Sutton et al._ analyzing off-policy learning via linear models
+* [Deep Q-Learning](https://training.incf.org/sites/default/files/2023-05/Human-level%20control%20through%20deep%20reinforcement%20learning.pdf) Paper _Human-level control through deep reinforcement learning_ published in 2015 by _V. Mnih et al._ proposing the legendary idea of Deep Q-Learning

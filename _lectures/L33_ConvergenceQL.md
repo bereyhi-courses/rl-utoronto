@@ -12,3 +12,4 @@ hide_from_announcments: false
 - [Chapter 3 - Section 5]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec5.pdf) 
 
 **Further Reads:**
+*[Convergence](https://link.springer.com/article/10.1007/bf00992698) Paper _The O.D.E. Method for Convergence of Stochastic Approximation and Reinforcement Learning_ published in 2000 by _V. Borkar and S. Meyn_ studying convergence of Q-Learning and SARSA
