@@ -20,7 +20,7 @@ As mentioned in the main page, the course will consists of 3 assignment sets. Ea
 
 ### Assignment 2: Tabular RL
 - [Assignment 2]({{site.baseurl}}/assignments/03_assignment2) has been posted on _October 6, 2025_ 
-- Deadline is on __October 26, 2025__ at __11:59 PM EST__
+- Deadline is on __October 24, 2025__ at __11:59 PM EST__
 - Up to 2 days delay with __10% deduction__ per day
 
 
