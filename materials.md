@@ -159,4 +159,10 @@ This section will be completed gradually through the semester.
 
 #### Deep Q-Learning
 * [Off-Policy with FA](https://proceedings.neurips.cc/paper_files/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) Paper _A Convergent O(n) Algorithm for Off-policy Temporal-difference Learning with Linear Function Approximation_ published in 2008 by _R. Sutton et al._ analyzing off-policy learning via linear models
+* [DQL](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf): Chapter 4 - Section 4.3 of [[CS]](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 * [Deep Q-Learning](https://training.incf.org/sites/default/files/2023-05/Human-level%20control%20through%20deep%20reinforcement%20learning.pdf) Paper _Human-level control through deep reinforcement learning_ published in 2015 by _V. Mnih et al._ proposing the legendary idea of Deep Q-Learning
+* [DQL Paper I](https://arxiv.org/abs/1312.5602) Paper _Playing Atari with Deep Reinforcement Learning_ published in 2013 by _V. Mnih et al._ describing DQL details
+* [DQL Paper II](https://arxiv.org/abs/1509.06461) Paper _Deep Reinforcement Learning with Double Q-learning_ published in 2015 by _H. Haasselt et al._ proposing Double DQL
+* [DQL Paper III](https://arxiv.org/abs/1511.06581) Paper _Dueling Network Architectures for Deep Reinforcement Learning_ published in 2016 by _Z. Wang et al._ proposing Dueling DQL
+* [DQL Paper IV](https://arxiv.org/abs/1511.05952) Paper _Prioritized Experience Replay_ published in 2016 by _T. Schaul et al._ proposing a prioritizing experience replay scheme
+* [DQL Paper V](https://arxiv.org/abs/1507.06527) Paper _Deep Recurrent Q-Learning for Partially Observable MDPs_ published in 2017 by _M. Hausknecht and P. Stone_ extending DQL to more realistic cases
