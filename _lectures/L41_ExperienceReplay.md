@@ -9,7 +9,7 @@ description: The fact that we are doing off-policy control in DQL enables us to 
 videoID: ydaeYrxGLsU 
 hide_from_announcments: false
 ---
-- [Chapter 4 - Section 3]({{ site.baseurl }}/assets/Notes/CH4/CH4_Sec3.pdf) 
+- [Chapter 4 - Section 4]({{ site.baseurl }}/assets/Notes/CH4/CH4_Sec4.pdf) 
 
 **Further Reads:**
 * [DQL](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf): Chapter 4 - Section 4.3 of [[CS]](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)

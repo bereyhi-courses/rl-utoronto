@@ -166,3 +166,5 @@ This section will be completed gradually through the semester.
 * [DQL Paper III](https://arxiv.org/abs/1511.06581) Paper _Dueling Network Architectures for Deep Reinforcement Learning_ published in 2016 by _Z. Wang et al._ proposing Dueling DQL
 * [DQL Paper IV](https://arxiv.org/abs/1511.05952) Paper _Prioritized Experience Replay_ published in 2016 by _T. Schaul et al._ proposing a prioritizing experience replay scheme
 * [DQL Paper V](https://arxiv.org/abs/1507.06527) Paper _Deep Recurrent Q-Learning for Partially Observable MDPs_ published in 2017 by _M. Hausknecht and P. Stone_ extending DQL to more realistic cases
+* [Gorila](https://arxiv.org/abs/1507.04296) Paper _Massively Parallel Methods for Deep Reinforcement Learning_ published in 2015 by _A. Nair et al._ proposing Gorila
+* [Why Policy Net](https://spinningup.openai.com/en/latest/algorithms/ddpg.html) Article _Deep Deterministic Policy Gradient_ at _OpenAI Spinning Up_
