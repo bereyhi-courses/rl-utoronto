@@ -34,6 +34,12 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Control with Function Approximation  
 * [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Deep Q-Learning
 
+### Chapter 5: Policy Gradient Methods (PGMs)
+* [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Policy Network
+* [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): Training Policy Net and PGM 
+* [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec3.pdf): PGM with Trust Region  
+* [Section 4]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Basic Form TRPO and PPO
+
 
 
 
