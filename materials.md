@@ -52,6 +52,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 4](https://colab.research.google.com/drive/1gQIEhCgANZBN76hyNT67S2y5Iv5ODVNJ?usp=sharing): TD Learning, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/40f7e689ccb600d0577e9d1181509798)
 * [Tutorial 5](https://q.utoronto.ca/courses/414555/modules): Midterm Review by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/5b3045ec1edec245607084dc5361ca90)
 * [Tutorial 6](https://q.utoronto.ca/courses/414555/modules): Tabular vs Deep RL by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/c9e1b925ee70d8179bfb43e69aba5494)
+* [Tutorial 7](https://q.utoronto.ca/courses/414555/modules): PGM by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/54a5a535f36689be21243ffb1b0bc11b)
 
 ## Book
 
@@ -187,5 +188,6 @@ This section will be completed gradually through the semester.
 * [Baseline](https://people.eecs.berkeley.edu/~russell/papers/icml99-shaping.pdf) Paper _Policy invariance under reward transformations: Theory and application to reward shaping_ published by _A. Ng et al._ in 1999
 
 #### Trust Region PGM
+* [Nat PGM](https://papers.nips.cc/paper_files/paper/2001/hash/4b86abe48d358ecf194c56c69108433e-Abstract.html) Paper _A Natural Policy Gradient_ published by _S. Kakade_ in 2001 proposing a basic natural PGM
 * [TRPO](https://proceedings.mlr.press/v37/schulman15.html) Paper _Trust Region Policy Optimization_ published by _J. Schulman et al._ in 2015 proposing TRPO
 * [PPO](https://arxiv.org/abs/1707.06347) Paper _Proximal Policy Optimization Algorithms_ published by _J. Schulman et al._ in 2017 proposing PPO
