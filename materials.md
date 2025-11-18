@@ -40,6 +40,16 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec3.pdf): PGM with Trust Region  
 * [Section 4]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Basic Form TRPO and PPO
 
+### Chapter 6: Actor-Critic Approaches 
+* [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Basics of AC - A2C Algorithm
+* [Section 2]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec2.pdf): AC Version of TRPO and PPO
+* [Section 3]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec3.pdf): Deterministic Policy Gradient and DDPG 
+
+### Chapter 7: Wrap-up
+* [Section 1]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec1.pdf): Some History
+* [Section 2]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec2.pdf): Some Advanced Topics
+
+
 
 
 
