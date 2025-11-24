@@ -63,6 +63,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 5](https://q.utoronto.ca/courses/414555/modules): Midterm Review by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/5b3045ec1edec245607084dc5361ca90)
 * [Tutorial 6](https://q.utoronto.ca/courses/414555/modules): Tabular vs Deep RL by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/c9e1b925ee70d8179bfb43e69aba5494)
 * [Tutorial 7](https://q.utoronto.ca/courses/414555/modules): PGM by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/54a5a535f36689be21243ffb1b0bc11b)
+* [Tutorial 8](https://q.utoronto.ca/courses/414555/modules): TRPO and PPO by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b2c87e6fa04c4e1d6f5f93026a408feb)
 
 ## Book
 
@@ -201,3 +202,44 @@ This section will be completed gradually through the semester.
 * [Nat PGM](https://papers.nips.cc/paper_files/paper/2001/hash/4b86abe48d358ecf194c56c69108433e-Abstract.html) Paper _A Natural Policy Gradient_ published by _S. Kakade_ in 2001 proposing a basic natural PGM
 * [TRPO](https://proceedings.mlr.press/v37/schulman15.html) Paper _Trust Region Policy Optimization_ published by _J. Schulman et al._ in 2015 proposing TRPO
 * [PPO](https://arxiv.org/abs/1707.06347) Paper _Proximal Policy Optimization Algorithms_ published by _J. Schulman et al._ in 2017 proposing PPO
+
+
+### Chapter 6: Actor-Critic Approaches
+#### Basic of AC
+* [AC](https://ieeexplore.ieee.org/abstract/document/6313077) Paper _Neuronlike adaptive elements that can solve difficult learning control problems_ published by _A. Barto, R. Sutton, and C. Anderson_ in 1980 coining the term AC approaches
+* [AC](https://proceedings.neurips.cc/paper/1999/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html) Paper _Actor-Critic Algorithms_ published by _V. Konda and J. Tsitsiklis_ in 2000 formulating AC more generally
+
+#### Back to TRPO and PPO
+* [TRPO](https://proceedings.mlr.press/v37/schulman15.html) Paper _Trust Region Policy Optimization_ published by _J. Schulman et al._ in 2015 proposing TRPO
+* [PPO](https://arxiv.org/abs/1707.06347) Paper _Proximal Policy Optimization Algorithms_ published by _J. Schulman et al._ in 2017 proposing PPO
+
+#### Deterministic Policy Gradient
+* [DPGs](https://proceedings.mlr.press/v32/silver14.html) Paper _Deterministic Policy Gradient Algorithms_ published by _D. Silver et al._ in 2014 developing DPGs
+* [DDPG](https://arxiv.org/abs/1509.02971) Paper _Continuous Control with Deep Reinforcement Learning_ published by _T. Lillicrap et al._ in 2015 proposing Deep DPG
+* [TD3](https://proceedings.mlr.press/v80/fujimoto18a.html) Paper _Addressing Function Approximation Error in Actor-Critic Methods_ published by _S. Fujimoto et al._ in 2018 proposing TD3
+
+#### Soft Actor-Critic
+* [Soft QL](https://proceedings.mlr.press/v70/haarnoja17a.html?ref=https://githubhelp.com) Paper _Reinforcement Learning with Deep Energy-Based Policies_ published by _T. Haarnoja et al._ in 2017 developing Soft Q-Learning with Entropy-based regularization of rewarding system
+* [SAC](https://proceedings.mlr.press/v80/haarnoja18b) Paper _Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor_ published by _T. Haarnoja et al._ in 2018 proposing SAC
+* [SAC II](https://arxiv.org/abs/1812.05905) Paper _Soft Actor-Critic Algorithms and Applications_ published by _T. Haarnoja et al._ in 2019 giving more context to SAC
+
+
+### Chapter 7: History and Advances
+
+#### Imitation LEarning and Behavior Cloning
+* [IL - DAgger](https://proceedings.mlr.press/v15/ross11a) Paper _A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning_ published by _S. Ross et al._ in 2011 proposing DAgger for imitation learning
+* [BCO](https://arxiv.org/abs/1805.01954) Paper _Behavioral Cloning from Observation (BCO)_ published by _F. Torabi et al._ in 2018 proposing BCO
+
+#### Inverse RL
+* [Inverse RL](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2022_2023/papers/NG_ICML_2000.pdf) Paper _Algorithms for Inverse Reinforcement Learning_ published by _A. Ng and S. Russell_ in 2000 discussing Inverse RL
+* [Max Entropy Inverse RL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf) Paper _Maximum Entropy Inverse Reinforcement Learning_ published by _B. Ziebart et al._ in 2008 Proposing Max Entropy approach for Inverse RL
+
+#### Reinforcement Learning with Human Feedback (RLHF)
+* [RLHF](https://proceedings.neurips.cc/paper_files/paper/2017/hash/d5e2c0adad503c91f91df240d0cd4e49-Abstract.html) Paper _Deep Reinforcement Learning from Human Preferences_ published by _P. Christiano et al._ in 2017 discusses RLHF
+* [Fine-Tuning via RLHF](https://arxiv.org/abs/1909.08593) Paper _Fine-Tuning Language Models from Human Preferences_ published by _D. Ziegler et al._ in 2019 discusses Fine-tuning RLHF
+* [RLHF for LLM](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) Paper _Training language models to follow instructions with human feedback (InstructGPT)_ published by _L. Ouyang et al._ in 2022 discusses RLHF for LLM
+
+#### Multi-agent RL
+* [MA-RL](https://proceedings.neurips.cc/paper/2017/hash/68a9750337a418a86fe06c1991a1d64c-Abstract.html) Paper _Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments_ published by _R. Lowe et al._ in 2017 discusses Multi-agent RL
+* [Deep MA-RL](https://proceedings.neurips.cc/paper/2016/hash/c7635bfd99248a2cdef8249ef7bfbef4-Abstract.html) Paper _Learning to Communicate with Deep Multi-Agent Reinforcement Learning_ published by _J. Foerster et al._ in 2016 discusses Multi-agent RL
+* [Adversarial RL](https://proceedings.mlr.press/v70/pinto17a.html) Paper _Robust Adversarial Reinforcement Learning_ published by _L. Pinato et al._ in 2017 discusses Adversarial RL
