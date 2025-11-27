@@ -24,7 +24,7 @@ As mentioned in the main page, the course will consists of 3 assignment sets. Ea
 - Up to 2 days delay with __10% deduction__ per day
 
 ### Assignment 3: Deep RL
-- [Assignment 2]({{site.baseurl}}/assignments/04_assignment3) has been posted on _November 10, 2025_ 
+- [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _November 10, 2025_ 
 - Deadline is on __November 26, 2025__ at __11:59 PM EST__
 - Up to 2 days delay with __10% deduction__ per day
 
