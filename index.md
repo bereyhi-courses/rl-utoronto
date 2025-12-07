@@ -8,7 +8,7 @@ For the Quercus page of the course please [click here](https://q.utoronto.ca/cou
 ## Final Project Submission and Presentation
 
 ### Final Presentations
-The final project presentations are given on _Tuesday December 5._
+The final project presentations are given on _Friday December 5._
 
 The seminars __start at 1:00 PM__ in the __Claude T. Bissell Building - Room 205 (BL 205).__ The detailed schedule can be found [Quercus.](https://q.utoronto.ca/courses/414555)
 
