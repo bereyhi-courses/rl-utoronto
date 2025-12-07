@@ -64,6 +64,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 6](https://q.utoronto.ca/courses/414555/modules): Tabular vs Deep RL by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/c9e1b925ee70d8179bfb43e69aba5494)
 * [Tutorial 7](https://q.utoronto.ca/courses/414555/modules): PGM by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/54a5a535f36689be21243ffb1b0bc11b)
 * [Tutorial 8](https://q.utoronto.ca/courses/414555/modules): TRPO and PPO by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b2c87e6fa04c4e1d6f5f93026a408feb)
+* [Tutorial 9](https://q.utoronto.ca/courses/414555/modules): AC version of PPO by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/a92cbf887dec49f18ecb32b1d11546b5)
 
 ## Book
 
