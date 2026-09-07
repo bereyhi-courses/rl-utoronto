@@ -30,11 +30,11 @@ assgn_desc: "4 assignment sets"
 assgn_txt: "There will be 4 sets of assignments. Roughly speaking, the first one goes through fundamentals of reinforcement learning. The second assignment gets more serious in terms of implementation and develops your knowledge on tabular reinforcement learning methods. The last two assignments gives you a chance to implement some mini-projects on Deep Reinforcement Learning. The assignments will count for 40% of your final mark."
 
 exam_mark: 30%
-exam_desc: "midterm exam"
+exam_desc: "2 in-term exams"
 exam_txt: "We have two in-term exams in this semester. The exams are on <em>Friday, October 23</em> and <em>Friday, December 4.</em> Each exam will ask two questions similar to what you have seen in assignments, tutorials, and practice questions shared with you. The exam evaluates the understanding of fundamental concepts."
 
 project_mark: 30%
-project_desc: "selected from predefined set of projects or open-ended"
+project_desc: "open-ended projects"
 project_txt: "An open-ended project is to be completed through semester. Students work in groups. The final projects will be presented in the second week of December."
 
 
