@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-21T18:30:00
 title: "Lecture 57: Final Notes"
@@ -22,4 +22,4 @@ hide_from_announcments: false
 * [RLHF for LLM](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) Paper _Training language models to follow instructions with human feedback (InstructGPT)_ published by _L. Ouyang et al._ in 2022 discusses RLHF for LLM
 * [MA-RL](https://proceedings.neurips.cc/paper/2017/hash/68a9750337a418a86fe06c1991a1d64c-Abstract.html) Paper _Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments_ published by _R. Lowe et al._ in 2017 discusses Multi-agent RL
 * [Deep MA-RL](https://proceedings.neurips.cc/paper/2016/hash/c7635bfd99248a2cdef8249ef7bfbef4-Abstract.html) Paper _Learning to Communicate with Deep Multi-Agent Reinforcement Learning_ published by _J. Foerster et al._ in 2016 discusses Multi-agent RL
-* [Adversarial RL](https://proceedings.mlr.press/v70/pinto17a.html) Paper _Robust Adversarial Reinforcement Learning_ published by _L. Pinato et al._ in 2017 discusses Adversarial RL
+* [Adversarial RL](https://proceedings.mlr.press/v70/pinto17a.html) Paper _Robust Adversarial Reinforcement Learning_ published by _L. Pinato et al._ in 2017 discusses Adversarial RL -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-07T18:30:00
 title: "Lecture 32: Q-Learning"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 **Further Reads:**
 * [Q-Learning Paper](https://link.springer.com/article/10.1007/bf00992698) Paper _Q-learning_ published in 1992 by _C Watkins and P. Dayan_proposing the off-policy learning as in Q-learning algorithm
 * [Q-Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
-* [Q-Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Section 12.10 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Q-Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Section 12.10 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

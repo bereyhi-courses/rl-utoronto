@@ -1,41 +1,41 @@
 # schedule
-day1: Tuesdays
-time1: 5 PM - 7 PM
+day1: Thursdays
+time1: 1 PM - 4 PM
 loc1: <strong>BA-1170</strong> - <em>Bahen Centre for Information Technology</em>
 
-day2: Fridays
-time2: 5 PM - 7 PM
-loc2: <strong>BA-1180</strong> - <em>Bahen Centre for Information Technology</em>
+# day2: Fridays
+# time2: 5 PM - 7 PM
+# loc2: <strong>BA-1180</strong> - <em>Bahen Centre for Information Technology</em>
 
-dayTut: Tuesdays
-timeTut: 4 PM - 5 PM
-locTut: <strong>BA-1160</strong> - <em>Bahen Centre for Information Technology</em>
+dayTut: Fridays
+timeTut: 5 PM - 6 PM
+locTut: <strong>BA-1130</strong> - <em>Bahen Centre for Information Technology</em>
 
-start_date: September 2, 2025
-start_description: Please note that the lecture halls are different in Tuesdays and Fridays.
+start_date: September 10, 2025
+# start_description: 
 
-start_dateTut: September 16, 2025
+start_dateTut: September 18, 2025
 
 dayOffice: Thursdays 
-timeOffice: 12 PM - 1 PM
+timeOffice: 4 PM - 5 PM
 
 # Site settings
 course_name: Reinforcement Learning
-course_description: "This course develops hands-on skills in deep reinforcement learning, for which fundamentals of reinforcement learning are first discussed and then deep reinforcement learning algorithms are studied. The course is designed in three major parts: Part I gives the students a warm welcome by taking them through the basic definitions and fundamental concepts. Part II explains fundamental reinforcement learning methods by touching the key model-based and model-free techniques and providing deep understanding of these methods. Part III explores deep reinforcement learning, where deep neural networks are employed to efficiently approximate the developed techniques in Part II. In this part, we take a look into several algorithms, such as deep Q-learning, policy gradient methods, e.g., trust-region and proximal policy optimization algorithms, and actor-critic methods."
-course_semester: "Fall 2025"
+course_description: "This course develops fundamental understanding and hands-on skills in reinforcement learning. The course is designed in three major parts: Part I gives the students a warm welcome by taking them through the basic definitions and fundamental concepts. Part II explains fundamental reinforcement learning methods by touching the key model-based and model-free techniques and providing deep understanding of these methods. Part III explores deep reinforcement learning, where deep neural networks are employed to efficiently approximate the developed techniques in Part II. In this part, we take a look into several algorithms, such as deep Q-learning, policy gradient methods, e.g., trust-region and proximal policy optimization algorithms, and actor-critic methods."
+course_semester: "Fall 2026"
 
 
-assgn_mark: 42%
-assgn_desc: "3 assignment sets"
-assgn_txt: "This is the most important part! We are learning an applied course and hence should implement whatever we learn. There will be three sets of assignments. Roughly speaking, the first one goes through fundamentals of reinforcement learning. The second assignment gets more serious in terms of implementation and develops your knowledge on tabular reinforcement learning methods. The last one gives you a chance to implement some mini-project on Deep Reinforcement Learning. The assignments will count for 42% of your final mark."
+assgn_mark: 40%
+assgn_desc: "4 assignment sets"
+assgn_txt: "There will be 4 sets of assignments. Roughly speaking, the first one goes through fundamentals of reinforcement learning. The second assignment gets more serious in terms of implementation and develops your knowledge on tabular reinforcement learning methods. The last two assignments gives you a chance to implement some mini-projects on Deep Reinforcement Learning. The assignments will count for 40% of your final mark."
 
-exam_mark: 25%
+exam_mark: 30%
 exam_desc: "midterm exam"
-exam_txt: "This will be a theory-side-of-the-course exam. When we are over with Part 2, there will be an exam. The exam will ask questions on theory. There will be of course no programming questions in the exam. The exam will only evaluate the understanding of fundamental concepts and reinforcement learning methods through questions that can be either explained in words or solved simply by hand. This exam will comprise 25% of the total mark."
+exam_txt: "We have two in-term exams in this semester. The exams are on <em>Friday, October 23</em> and <em>Friday, December 4.</em> Each exam will ask two questions similar to what you have seen in assignments, tutorials, and practice questions shared with you. The exam evaluates the understanding of fundamental concepts."
 
-project_mark: 33%
+project_mark: 30%
 project_desc: "selected from predefined set of projects or open-ended"
-project_txt: "This is the exciting part of the course, where we could challenge ourselves and test the development of our skills. The topic of the project is set to be an application of deep reinforcement learning. The project is designed in advance with its milestones and tasks being clear. Required documents for the project will be shared. You then need to use your knowledge to gradually finish the required tasks by the end of semester. You have further the option to define your own project. An open-ended project must be defined to be of the same level of the predefined projects, with the milestones being clearly specified. The final projects will be presented in the seminar session which holds on the last week."
+project_txt: "An open-ended project is to be completed through semester. Students work in groups. The final projects will be presented in the second week of December."
 
 
 baseurl: "/rl-utoronto" # the subpath of your site, e.g. /blog/

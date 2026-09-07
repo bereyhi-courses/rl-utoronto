@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-09T17:20:00
 title: "Lecture 7: Policy and Its Value"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 1 - Section 3]({{ site.baseurl }}/assets/Notes/CH1/CH1_Sec3.pdf) 
 
 **Further Reads:**
-* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 1 - Sections 1.3 and 1.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 1 - Sections 1.3 and 1.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-12T18:20:00
 title: "Lecture 12: Value Function Calculation via MDPs -- Naive Approach"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 1]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec1.pdf) 
 
 **Further Reads:**
-* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Section 3.5 [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Section 3.5 [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

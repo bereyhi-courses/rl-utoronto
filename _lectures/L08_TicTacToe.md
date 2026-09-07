@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-09T18:00:00
 title: "Lecture 8: Playing Tic-Tac-Toe"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 1 - Section 3]({{ site.baseurl }}/assets/Notes/CH1/CH1_Sec3.pdf) 
 
 **Further Reads:**
-* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 1 - Section 1.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [RL Setting](http://incompleteideas.net/book/the-book-2nd.html): Chapter 1 - Section 1.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

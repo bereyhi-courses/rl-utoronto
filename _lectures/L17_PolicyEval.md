@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-19T17:40:00
 title: "Lecture 17: Policy Evaluation by Dynamic Programming"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 3]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec3.pdf) 
 
 **Further Reads:**
-* [Policy Evaluation](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Section 4.1 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Policy Evaluation](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Section 4.1 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

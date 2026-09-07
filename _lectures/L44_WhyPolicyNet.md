@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-24T18:30:00
 title: "Lecture 44: Why Policy Net?"
@@ -12,4 +12,4 @@ hide_from_announcments: false
 - [Chapter 4 - Section 4]({{ site.baseurl }}/assets/Notes/CH4/CH4_Sec4.pdf) 
 
 **Further Reads:**
-* [Why Policy Net](https://spinningup.openai.com/en/latest/algorithms/ddpg.html) Article _Deep Deterministic Policy Gradient_ at _OpenAI Spinning Up_
+* [Why Policy Net](https://spinningup.openai.com/en/latest/algorithms/ddpg.html) Article _Deep Deterministic Policy Gradient_ at _OpenAI Spinning Up_ -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-02T18:00:00
 title: "Lecture 1: RL as a Learning Problem"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 1 - Section 1]({{ site.baseurl }}/assets/Notes/CH1/CH1_Sec1.pdf) 
 
 **Further Reads:**
-* [Intro to RL](http://incompleteideas.net/book/the-book-2nd.html): Chapter 1 - Sections 1.1 and 1.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Intro to RL](http://incompleteideas.net/book/the-book-2nd.html): Chapter 1 - Sections 1.1 and 1.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

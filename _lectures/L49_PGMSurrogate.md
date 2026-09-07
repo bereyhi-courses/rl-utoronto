@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-11T17:15:00
 title: "Lecture 49: PGM as Sequential Surrogate Optimization"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Nat PGM](https://papers.nips.cc/paper_files/paper/2001/hash/4b86abe48d358ecf194c56c69108433e-Abstract.html) Paper _A Natural Policy Gradient_ published by _S. Kakade_ in 2001 proposing a basic natural PGM
-* [TRPO](https://proceedings.mlr.press/v37/schulman15.html) Paper _Trust Region Policy Optimization_ published by _J. Schulman et al._ in 2015 proposing TRPO
+* [TRPO](https://proceedings.mlr.press/v37/schulman15.html) Paper _Trust Region Policy Optimization_ published by _J. Schulman et al._ in 2015 proposing TRPO -->

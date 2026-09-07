@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-24T18:00:00
 title: "Lecture 43: Double DQL and Gorila"
@@ -15,4 +15,4 @@ hide_from_announcments: false
 * [DQL Paper II](https://arxiv.org/abs/1509.06461) Paper _Deep Reinforcement Learning with Double Q-learning_ published in 2015 by _H. Haasselt et al._ proposing Double DQL
 * [DQL Paper III](https://arxiv.org/abs/1511.06581) Paper _Dueling Network Architectures for Deep Reinforcement Learning_ published in 2016 by _Z. Wang et al._ proposing Dueling DQL
 * [DQL Paper IV](https://arxiv.org/abs/1511.05952) Paper _Prioritized Experience Replay_ published in 2016 by _T. Schaul et al._ proposing a prioritizing experience replay scheme
-* [Gorila](https://arxiv.org/abs/1507.04296) Paper _Massively Parallel Methods for Deep Reinforcement Learning_ published in 2015 by _A. Nair et al._ proposing Gorila
+* [Gorila](https://arxiv.org/abs/1507.04296) Paper _Massively Parallel Methods for Deep Reinforcement Learning_ published in 2015 by _A. Nair et al._ proposing Gorila -->

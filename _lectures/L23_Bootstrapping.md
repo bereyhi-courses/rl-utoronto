@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-26T17:40:00
 title: "Lecture 23: Bootstrapping"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 3 - Section 2]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec2.pdf) 
 
 **Further Reads:**
-* [TD-0](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.1 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [TD-0](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 - Section 6.1 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

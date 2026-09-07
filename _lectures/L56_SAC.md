@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-21T18:00:00
 title: "Lecture 56: Introduction to Soft AC"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 **Further Reads:**
 * [Soft QL](https://proceedings.mlr.press/v70/haarnoja17a.html?ref=https://githubhelp.com) Paper _Reinforcement Learning with Deep Energy-Based Policies_ published by _T. Haarnoja et al._ in 2017 developing Soft Q-Learning with Entropy-based regularization of rewarding system
 * [SAC](https://proceedings.mlr.press/v80/haarnoja18b) Paper _Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor_ published by _T. Haarnoja et al._ in 2018 proposing SAC
-* [SAC II](https://arxiv.org/abs/1812.05905) Paper _Soft Actor-Critic Algorithms and Applications_ published by _T. Haarnoja et al._ in 2019 giving more context to SAC
+* [SAC II](https://arxiv.org/abs/1812.05905) Paper _Soft Actor-Critic Algorithms and Applications_ published by _T. Haarnoja et al._ in 2019 giving more context to SAC -->

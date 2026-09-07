@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-23T17:10:00
 title: "Lecture 19: Value Iteration"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 3]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec3.pdf) 
 
 **Further Reads:**
-* [Value Iteration](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Section 4.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Value Iteration](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Section 4.4 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

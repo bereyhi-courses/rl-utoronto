@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-30T17:10:00
 title: "Lecture 25: Deep Bootstrapping and TD-n"
@@ -12,5 +12,4 @@ hide_from_announcments: false
 - [Chapter 3 - Section 3]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec3.pdf) 
 
 **Further Reads:**
-* [TD-n](http://incompleteideas.net/book/the-book-2nd.html): Chapter 7 - Sections 7.1 and 7.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
-
+* [TD-n](http://incompleteideas.net/book/the-book-2nd.html): Chapter 7 - Sections 7.1 and 7.2 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

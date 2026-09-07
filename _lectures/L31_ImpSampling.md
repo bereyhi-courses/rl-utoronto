@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-07T18:10:00
 title: "Lecture 31: Off-Policy RL via Importance Sampling"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Importance Sampling](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Section 5.5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
-* [Off Policy Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.9 and 12.11 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Off Policy Learning](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.9 and 12.11 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

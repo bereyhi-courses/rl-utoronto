@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-02T17:00:00
 title: "Lecture 0: Course Overview and Logistics"
@@ -10,4 +10,4 @@ videoID: YVFUcpwdvS4
 hide_from_announcments: false
 ---
 **Lecture Notes:**
-- [Chapter 0]({{ site.baseurl }}/assets/Notes/CH0/CH0.pdf)
+- [Chapter 0]({{ site.baseurl }}/assets/Notes/CH0/CH0.pdf) -->

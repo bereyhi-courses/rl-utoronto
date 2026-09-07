@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-07T18:15:00
 title: "Lecture 48: Vanilla and Baseline PGM"
@@ -12,4 +12,4 @@ hide_from_announcments: false
 - [Chapter 5 - Section 2]({{ site.baseurl }}/assets/Notes/CH5/CH5_Sec2.pdf) 
 
 **Further Reads:**
-* [Baseline](https://people.eecs.berkeley.edu/~russell/papers/icml99-shaping.pdf) Paper _Policy invariance under reward transformations: Theory and application to reward shaping_ published by _A. Ng et al._ in 1999
+* [Baseline](https://people.eecs.berkeley.edu/~russell/papers/icml99-shaping.pdf) Paper _Policy invariance under reward transformations: Theory and application to reward shaping_ published by _A. Ng et al._ in 1999 -->

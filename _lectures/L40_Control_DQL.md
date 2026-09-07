@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-17T17:30:00
 title: "Lecture 40: Control via Function Approximation and Deep Q-Learning"
@@ -12,4 +12,4 @@ hide_from_announcments: false
 - [Chapter 4 - Section 4]({{ site.baseurl }}/assets/Notes/CH4/CH4_Sec4.pdf) 
 
 **Further Reads:**
-* [Control with FA](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf): Chapter 4 of [[CS]](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+* [Control with FA](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf): Chapter 4 of [[CS]](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) -->

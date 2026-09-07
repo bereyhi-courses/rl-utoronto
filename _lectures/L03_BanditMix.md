@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-05T17:00:00
 title: "Lecture 3: Exploiting Explorations in Multi-armed Bandit"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [k-armed Bandit](http://incompleteideas.net/book/the-book-2nd.html): Chapter 2 - Section 2.1 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
-* [Robbins' Paper](https://www.ams.org/journals/bull/1952-58-05/S0002-9904-1952-09620-8/S0002-9904-1952-09620-8.pdf): Paper _Some aspects of the sequential design of experiments_ by _H. Robbins_ published in the _Bulletin of the American Mathematical Society_ in 1952 formulating multi-armed bandit as we know it nowadays
+* [Robbins' Paper](https://www.ams.org/journals/bull/1952-58-05/S0002-9904-1952-09620-8/S0002-9904-1952-09620-8.pdf): Paper _Some aspects of the sequential design of experiments_ by _H. Robbins_ published in the _Bulletin of the American Mathematical Society_ in 1952 formulating multi-armed bandit as we know it nowadays -->

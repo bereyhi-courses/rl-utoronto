@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-21T17:15:00
 title: "Lecture 55: Deterministic Policy Gradient"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 **Further Reads:**
 * [DPGs](https://proceedings.mlr.press/v32/silver14.html) Paper _Deterministic Policy Gradient Algorithms_ published by _D. Silver et al._ in 2014 developing DPGs
 * [DDPG](https://arxiv.org/abs/1509.02971) Paper _Continuous Control with Deep Reinforcement Learning_ published by _T. Lillicrap et al._ in 2015 proposing Deep DPG
-* [TD3](https://proceedings.mlr.press/v80/fujimoto18a.html) Paper _Addressing Function Approximation Error in Actor-Critic Methods_ published by _S. Fujimoto et al._ in 2018 proposing TD3
+* [TD3](https://proceedings.mlr.press/v80/fujimoto18a.html) Paper _Addressing Function Approximation Error in Actor-Critic Methods_ published by _S. Fujimoto et al._ in 2018 proposing TD3 -->

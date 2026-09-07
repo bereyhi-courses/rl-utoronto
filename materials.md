@@ -6,48 +6,49 @@ permalink: /materials/
 
 ## Lecture Notes
 The lecture notes are uploaded through the semester. For each chapter, the notes are provided section by section. 
-### Chapter 0: Course Overview and Logistics
-* [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file
 
-### Chapter 1: RL Framework
+<!-- ### Chapter 0: Course Overview and Logistics
+* [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
+
+<!-- ### Chapter 1: RL Framework
 * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Multi-armed Bandit
 * [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): RL Problem: _Definitions and Basics_
 * [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Playing in RL Framework
-* [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Our First Game
+* [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Our First Game -->
 
 
-### Chapter 2: Model-based RL
+<!-- ### Chapter 2: Model-based RL
 * [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): Markov Decision Process and Bellman Equation
 * [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec2.pdf): Bellman Optimality
-* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Policy and Value Iteration
+* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Policy and Value Iteration -->
 
-### Chapter 3: Model-free Tabular RL
+<!-- ### Chapter 3: Model-free Tabular RL
 * [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): Evaluation via Monte-Carlo 
 * [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Temporal Difference 
 * [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Deep Bootstrapping and Credit Assignment
 * [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Online Control via Monte-Carlo
-* [Section 5]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec5.pdf): Online Control via TD - _SARSA and Q-Learning_
+* [Section 5]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec5.pdf): Online Control via TD - _SARSA and Q-Learning_ -->
 
-### Chapter 4: RL with Function Approximation
+<!-- ### Chapter 4: RL with Function Approximation
 * [Section 1]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec1.pdf): Tabular RL vs RL with Function Approximation
 * [Section 2]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Prediction with Function Approximation  
 * [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Control with Function Approximation  
-* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Deep Q-Learning
+* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Deep Q-Learning -->
 
-### Chapter 5: Policy Gradient Methods (PGMs)
+<!-- ### Chapter 5: Policy Gradient Methods (PGMs)
 * [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Policy Network
 * [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): Training Policy Net and PGM 
 * [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec3.pdf): PGM with Trust Region  
-* [Section 4]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Basic Form TRPO and PPO
+* [Section 4]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Basic Form TRPO and PPO -->
 
-### Chapter 6: Actor-Critic Approaches 
+<!-- ### Chapter 6: Actor-Critic Approaches 
 * [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Basics of AC - A2C Algorithm
 * [Section 2]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec2.pdf): AC Version of TRPO and PPO
-* [Section 3]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec3.pdf): Deterministic Policy Gradient and DDPG 
+* [Section 3]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec3.pdf): Deterministic Policy Gradient and DDPG  -->
 
-### Chapter 7: Wrap-up
+<!-- ### Chapter 7: Wrap-up
 * [Section 1]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec1.pdf): Some History
-* [Section 2]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec2.pdf): Some Advanced Topics
+* [Section 2]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec2.pdf): Some Advanced Topics -->
 
 
 
@@ -56,15 +57,15 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 ## Tutorial Notebooks and Videos
 The tutorial notebooks can be accessed below. 
-* [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): Overview on RL environment and Introduction to Gymnasium, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b1e2e52ab234989cb9da863f4c4fbadc)
-* [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.ipynb): Policy and Value Iteration, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/d4f9c09f5081542d3592b146e526cc71)
-* [Tutorial 3](https://colab.research.google.com/drive/1lOzNXLveTXTaTx5fHNUsAHnrHJiixMv3?usp=sharing): Monte Carlo Learning, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/44b2dea347ae3fb106590342ae394e80)
-* [Tutorial 4](https://colab.research.google.com/drive/1gQIEhCgANZBN76hyNT67S2y5Iv5ODVNJ?usp=sharing): TD Learning, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/40f7e689ccb600d0577e9d1181509798)
-* [Tutorial 5](https://q.utoronto.ca/courses/414555/modules): Midterm Review by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/5b3045ec1edec245607084dc5361ca90)
-* [Tutorial 6](https://q.utoronto.ca/courses/414555/modules): Tabular vs Deep RL by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/c9e1b925ee70d8179bfb43e69aba5494)
-* [Tutorial 7](https://q.utoronto.ca/courses/414555/modules): PGM by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/54a5a535f36689be21243ffb1b0bc11b)
-* [Tutorial 8](https://q.utoronto.ca/courses/414555/modules): TRPO and PPO by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b2c87e6fa04c4e1d6f5f93026a408feb)
-* [Tutorial 9](https://q.utoronto.ca/courses/414555/modules): AC version of PPO by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/a92cbf887dec49f18ecb32b1d11546b5)
+<!-- * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): Overview on RL environment and Introduction to Gymnasium, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b1e2e52ab234989cb9da863f4c4fbadc) -->
+<!-- * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.ipynb): Policy and Value Iteration, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/d4f9c09f5081542d3592b146e526cc71) -->
+<!-- * [Tutorial 3](https://colab.research.google.com/drive/1lOzNXLveTXTaTx5fHNUsAHnrHJiixMv3?usp=sharing): Monte Carlo Learning, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/44b2dea347ae3fb106590342ae394e80) -->
+<!-- * [Tutorial 4](https://colab.research.google.com/drive/1gQIEhCgANZBN76hyNT67S2y5Iv5ODVNJ?usp=sharing): TD Learning, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/40f7e689ccb600d0577e9d1181509798) -->
+<!-- * [Tutorial 5](https://q.utoronto.ca/courses/414555/modules): Midterm Review by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/5b3045ec1edec245607084dc5361ca90) -->
+<!-- * [Tutorial 6](https://q.utoronto.ca/courses/414555/modules): Tabular vs Deep RL by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/c9e1b925ee70d8179bfb43e69aba5494) -->
+<!-- * [Tutorial 7](https://q.utoronto.ca/courses/414555/modules): PGM by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/54a5a535f36689be21243ffb1b0bc11b) -->
+<!-- * [Tutorial 8](https://q.utoronto.ca/courses/414555/modules): TRPO and PPO by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b2c87e6fa04c4e1d6f5f93026a408feb) -->
+<!-- * [Tutorial 9](https://q.utoronto.ca/courses/414555/modules): AC version of PPO by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/a92cbf887dec49f18ecb32b1d11546b5) -->
 
 ## Book
 

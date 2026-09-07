@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-24T17:30:00
 title: "Lecture 42: Target Network"
@@ -12,4 +12,4 @@ hide_from_announcments: false
 - [Chapter 4 - Section 4]({{ site.baseurl }}/assets/Notes/CH4/CH4_Sec4.pdf) 
 
 **Further Reads:**
-* [DQL Paper I](https://arxiv.org/abs/1312.5602) Paper _Playing Atari with Deep Reinforcement Learning_ published in 2013 by _V. Mnih et al._ describing DQL details
+* [DQL Paper I](https://arxiv.org/abs/1312.5602) Paper _Playing Atari with Deep Reinforcement Learning_ published in 2013 by _V. Mnih et al._ describing DQL details -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-19T18:20:00
 title: "Lecture 18: Policy Improvement and Policy Iteration"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 3]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec3.pdf) 
 
 **Further Reads:**
-* [Policy Improvement and Iteration](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Sections 4.2 and 4.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Policy Improvement and Iteration](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Sections 4.2 and 4.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

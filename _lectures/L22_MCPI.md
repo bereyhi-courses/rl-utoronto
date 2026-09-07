@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-26T17:10:00
 title: "Lecture 22: GPI via Monte-Carlo"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 3 - Section 1]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec1.pdf) 
 
 **Further Reads:**
-* [Monte-Carlo](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Section 5.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Monte-Carlo](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 - Section 5.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

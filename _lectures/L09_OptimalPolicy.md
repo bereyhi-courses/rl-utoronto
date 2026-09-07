@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-09T18:20:00
 title: "Lecture 9: Optimal Policy"
@@ -10,5 +10,4 @@ videoID: XqgEz3bA2p8
 hide_from_announcments: false
 ---
 **Lecture Notes:**
-- [Chapter 1 - Section 3]({{ site.baseurl }}/assets/Notes/CH1/CH1_Sec3.pdf) 
-
+- [Chapter 1 - Section 3]({{ site.baseurl }}/assets/Notes/CH1/CH1_Sec3.pdf) -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-19T17:00:00
 title: "Lecture 16: Back-Tracking Optimal Policy"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 2]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec2.pdf) 
 
 **Further Reads:**
-* [Optimal Policy](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Section 3.7 [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Optimal Policy](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Section 3.7 [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

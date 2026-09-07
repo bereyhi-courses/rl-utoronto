@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-23T17:50:00
 title: "Lecture 20: Generalized Policy Iteration"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 3]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec3.pdf) 
 
 **Further Reads:**
-* [Generalized Policy Iteration](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Sections 4.6 and 4.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Generalized Policy Iteration](http://incompleteideas.net/book/the-book-2nd.html): Chapter 4 - Sections 4.6 and 4.7 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

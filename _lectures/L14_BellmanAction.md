@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-16T17:50:00
 title: "Lecture 14: Bellman Equation for Action-Value and Backup Diagram"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 1]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec1.pdf) 
 
 **Further Reads:**
-* [Bellman](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Section 3.6 [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [Bellman](http://incompleteideas.net/book/the-book-2nd.html): Chapter 3 - Section 3.6 [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->

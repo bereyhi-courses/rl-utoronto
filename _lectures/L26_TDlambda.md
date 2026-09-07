@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-30T17:50:00
 title: "Lecture 26: TD-&lambda;"
@@ -12,4 +12,4 @@ hide_from_announcments: false
 - [Chapter 3 - Section 3]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec3.pdf) 
 
 **Further Reads:**
-* [TD-lambda](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.1 to 12.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
+* [TD-lambda](http://incompleteideas.net/book/the-book-2nd.html): Chapter 12 - Sections 12.1 to 12.3 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html) -->
