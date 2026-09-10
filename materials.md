@@ -7,14 +7,13 @@ permalink: /materials/
 ## Lecture Notes
 The lecture notes are uploaded through the semester. For each chapter, the notes are provided section by section. 
 
-<!-- ### Chapter 0: Course Overview and Logistics
-* [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
+### Chapter 0: Course Overview and Logistics
+* [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file
 
-<!-- ### Chapter 1: RL Framework
-* [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Multi-armed Bandit
+### Chapter 1: RL Framework
+* [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Introduction to RL through _Multi-armed Bandit_
 * [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): RL Problem: _Definitions and Basics_
-* [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Playing in RL Framework
-* [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Our First Game -->
+
 
 
 <!-- ### Chapter 2: Model-based RL
