@@ -6,7 +6,7 @@ tldr: "Overview"
 stat: lec
 # for lectures stat: lec
 description: In this lecture, we go through the course logistics. The audio quality is poor, as the teaching station did not work. 
-videoID:   
+videoID: RJi7fK9SSHQ
 hide_from_announcments: false
 ---
 **Lecture Notes:**

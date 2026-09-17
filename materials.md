@@ -13,7 +13,10 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ### Chapter 1: RL Framework
 * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Introduction to RL through _Multi-armed Bandit_
 * [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): RL Problem: _Definitions and Basics_
+* [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): RL Formulation: _Policy, Value, Action-Value_
 
+### Chapter 2: Model-based RL
+* [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): MDPs and Bellman Equation
 
 
 <!-- ### Chapter 2: Model-based RL
