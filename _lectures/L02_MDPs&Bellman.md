@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-09-17T13:10:00
-title: "Lecture 7: MDPs and Bellman"
+title: "Lecture 2: MDPs and Bellman"
 tldr: "Model-based RL - Part I"
 stat: lec
 # for lectures stat: lec
