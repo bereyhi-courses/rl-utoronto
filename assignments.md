@@ -22,9 +22,9 @@ As mentioned in the main page, the course will consists of 4 assignment sets. Ea
 
 ## Assignment Releases
 ### Assignment 1: Basics of RL
-<!-- - [Assignment 1]({{site.baseurl}}/assignments/01_assignment1) has been posted on _September 16, 2025_ 
-- Deadline is on __September 30, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day -->
+- [Assignment 1]({{site.baseurl}}/assignments/01_assignment1) has been posted on _September 18, 2026_ 
+- Deadline is on __October 02, 2026__ at __11:30 PM EST__
+- No late submission accepted
 
 ### Assignment 2: Tabular RL
 <!-- - [Assignment 2]({{site.baseurl}}/assignments/03_assignment2) has been posted on _October 6, 2025_ 
