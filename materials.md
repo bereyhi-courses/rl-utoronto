@@ -17,12 +17,9 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 ### Chapter 2: Model-based RL
 * [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): MDPs and Bellman Equation
-
-
-<!-- ### Chapter 2: Model-based RL
-* [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): Markov Decision Process and Bellman Equation
 * [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec2.pdf): Bellman Optimality
-* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Policy and Value Iteration -->
+* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Policy and Value Iteration
+
 
 <!-- ### Chapter 3: Model-free Tabular RL
 * [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): Evaluation via Monte-Carlo 
@@ -51,8 +48,6 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 <!-- ### Chapter 7: Wrap-up
 * [Section 1]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec1.pdf): Some History
 * [Section 2]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec2.pdf): Some Advanced Topics -->
-
-
 
 
 
