@@ -55,6 +55,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ## Tutorial Notebooks and Videos
 The tutorial notebooks can be accessed below. 
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1_RL.zip): Basics of RL and Introduction to Gymnasium, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/e4a81fb3b85fe0e5845785522879e14d)
+* [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2_RL.zip): Bellman and Polisy Iteration, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/4aa2279d2512bc9e111a7aa9e8ae615e)
 
 ## Book
 
