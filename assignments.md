@@ -27,9 +27,9 @@ As mentioned in the main page, the course will consists of 4 assignment sets. Ea
 - No late submission accepted
 
 ### Assignment 2: Tabular RL
-<!-- - [Assignment 2]({{site.baseurl}}/assignments/03_assignment2) has been posted on _October 6, 2025_ 
-- Deadline is on __October 24, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day -->
+- [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _October 5, 2026_ 
+- Deadline is on __October 19, 2026__ at __11:30 PM EST__
+- No late submission accepted
 
 ### Assignment 3: Deep RL I
 <!-- - [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _November 10, 2025_ 
