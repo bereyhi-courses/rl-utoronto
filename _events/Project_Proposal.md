@@ -1,6 +1,6 @@
 ---
 type: due
-date: 2026-10-12T23:30:00
+date: 2026-10-13T23:30:00
 description: 'Project Proposal'
 hide_from_announcments: true
 ---

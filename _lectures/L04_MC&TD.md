@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-10-01T13:10:00
-title: "Lecture 04: Generalized Policy Iteration via Monte-Carlo and Temporal Difference"
+title: "Lecture 4: Generalized Policy Iteration via Monte-Carlo and Temporal Difference"
 tldr: "Model-Free RL - Part I"
 stat: lec
 # for lectures stat: lec
@@ -15,4 +15,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Monte-Carlo](http://incompleteideas.net/book/the-book-2nd.html): Chapter 5 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)
-* [TD-0](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)]
+* [TD-0](http://incompleteideas.net/book/the-book-2nd.html): Chapter 6 of [[SB]](http://incompleteideas.net/book/the-book-2nd.html)

@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-09-24T13:10:00
-title: "Lecture 03: Policy and Value Iteration"
+title: "Lecture 3: Policy and Value Iteration"
 tldr: "Model-based RL - Part II"
 stat: lec
 # for lectures stat: lec
