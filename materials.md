@@ -24,14 +24,9 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): Monte-Carlo Learning
 * [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Temporal Difference 
 * [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Deep Bootstrapping and Credit Assignment
-
-
-<!-- ### Chapter 3: Model-free Tabular RL
-* [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): Evaluation via Monte-Carlo 
-* [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Temporal Difference 
-* [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Deep Bootstrapping and Credit Assignment
 * [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Online Control via Monte-Carlo
-* [Section 5]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec5.pdf): Online Control via TD - _SARSA and Q-Learning_ -->
+* [Section 5]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec5.pdf): Online Control via TD - _SARSA and Q-Learning_
+
 
 <!-- ### Chapter 4: RL with Function Approximation
 * [Section 1]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec1.pdf): Tabular RL vs RL with Function Approximation
@@ -53,7 +48,6 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 <!-- ### Chapter 7: Wrap-up
 * [Section 1]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec1.pdf): Some History
 * [Section 2]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec2.pdf): Some Advanced Topics -->
-
 
 
 
