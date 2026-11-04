@@ -32,9 +32,9 @@ As mentioned in the main page, the course will consists of 4 assignment sets. Ea
 - No late submission accepted
 
 ### Assignment 3: Deep RL I
-<!-- - [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _November 10, 2025_ 
-- Deadline is on __November 26, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day -->
+- [Assignment 3]({{site.baseurl}}/assignments/03_assignment3) has been posted on _November 04, 2026_ 
+- Deadline is on __November 17, 2026__ at __11:30 PM EST__
+- No late submission accepted
 
 ### Assignment 3: Deep RL II
 <!-- - [Assignment 4]({{site.baseurl}}/assignments/04_assignment3) has been posted on _November 10, 2025_ 
