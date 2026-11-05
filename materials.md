@@ -30,7 +30,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ### Chapter 4: Deep RL with Value Network
 * [Section 1]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec1.pdf): Tabular RL vs RL with Function Approximation
 * [Section 2]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Value Prediction with Function Approximation  
-* [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Control with Value Nets -- Deep Q-Learning  
+* [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Control with Value Nets -- Deep Q-Learning  
 
 
 <!-- ### Chapter 4: RL with Function Approximation
