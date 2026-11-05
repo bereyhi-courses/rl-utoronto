@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-10-22T13:10:00
 title: "Lecture 7: Policy Evaluation with Function Approximation"
-tldr: "Importance Sampling"
+tldr: "Deep RL"
 stat: lec
 # for lectures stat: lec
 description: In this lecture, we learn RL with function approximation. In this approach we estimate the values using a parameterized model, e.g., a NN. We look into the evaluation problem and develop training loops based on Monte Carlo and Temporal Difference to train a model for estimation of action-values of a policy. This leads to introduction of Value and Q-Networks. We show that by setting the state representation to one-hot and using a linear model, our training algorithms return to Tabular RL counterparts.  
