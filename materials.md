@@ -32,12 +32,9 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 2]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Value Prediction with Function Approximation  
 * [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Control with Value Nets -- Deep Q-Learning  
 
-
-<!-- ### Chapter 4: RL with Function Approximation
-* [Section 1]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec1.pdf): Tabular RL vs RL with Function Approximation
-* [Section 2]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Prediction with Function Approximation  
-* [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Control with Function Approximation  
-* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Deep Q-Learning -->
+### Chapter 5: Policy Gradient Methods (PGMs)
+* [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Policy Gradient Theorem
+* [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): REINFORCE and Advantage PGM 
 
 <!-- ### Chapter 5: Policy Gradient Methods (PGMs)
 * [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Policy Network
