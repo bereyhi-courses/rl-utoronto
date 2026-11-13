@@ -61,6 +61,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_4_RL.zip): TD-n and Online RL Algorithms, by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/b63511c5f8aaa6573efe9a28a2da8271)
 * Tutorial 5: Exam Review by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/fa06ea4386f5be6a369701c4a34c920c)
 * [Tutorial 6]({{site.baseurl}}/assets/Tutorials/Tutorial_6_RL.zip): Deep Q-LEarning by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/dd896b910c64a9a8b7baef78695943f7)
+* [Tutorial 7]({{site.baseurl}}/assets/Tutorials/Tutorial_7_RL.zip): PGMs by __Eason Qu__ [Video](https://play.library.utoronto.ca/watch/7f7aad3debb95a57a5eaae4c08f42a22)
 
 ## Book
 
