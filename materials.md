@@ -35,12 +35,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ### Chapter 5: Policy Gradient Methods (PGMs)
 * [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Policy Gradient Theorem
 * [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): REINFORCE and Advantage PGM 
-
-<!-- ### Chapter 5: Policy Gradient Methods (PGMs)
-* [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Policy Network
-* [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): Training Policy Net and PGM 
-* [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec3.pdf): PGM with Trust Region  
-* [Section 4]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Basic Form TRPO and PPO -->
+* [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec3.pdf): Trust Region Policy Optimization (TRPO and PPO)
 
 <!-- ### Chapter 6: Actor-Critic Approaches 
 * [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Basics of AC - A2C Algorithm
